@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Lucas</h2>
+<h2> Hi! I'm Lucas - Software Engineering </h2>
 
 <h3>My portfolio web --> https://lcisternas-portfolio.netlify.app/ </h3>
 
