@@ -11,8 +11,6 @@
 - 🌱 &nbsp; I love learning new things every day.
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Javascript | React | Redux | Express | MongoDB | PostgreSQL | Firebase
+- 💻 &nbsp; Javascript | Typescript | React | Redux | Express | MongoDB | PostgreSQL | Firebase
 <br>
 - 🌐 &nbsp; HTML | CSS 
-<h3>🛠 Learning </h3>
-- 🔧 &nbsp; Python | Django | AWS
