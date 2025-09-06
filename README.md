@@ -13,13 +13,3 @@
 
 **Other Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
-
----
-
-## 🌱 Currently  
-- Building **side projects** with Next.js + Supabase  
-
----
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/lucas-cisternas/)
